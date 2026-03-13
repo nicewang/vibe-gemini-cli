@@ -1,0 +1,1 @@
+rm filename.sh && uav_mpc_sim
